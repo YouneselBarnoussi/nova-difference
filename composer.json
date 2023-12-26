@@ -3,7 +3,10 @@
     "description": "A Laravel Nova field to display the difference between to values",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "difference",
+        "field",
+        "package"
     ],
     "license": "MIT",
     "require": {
